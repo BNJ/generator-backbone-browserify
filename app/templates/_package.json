@@ -19,6 +19,7 @@
     "grunt-modernizr": "^0.5.1",
     "grunt-svgmin": "^0.4.0",  
     "grunt-watchify": "~0.1.0",
+    "jquery": "~2.1.0",
     "backbone": "~1.1.1",
     "underscore": "^1.6.0",    
     "hamlify": "0.0.3",

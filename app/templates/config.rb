@@ -3,5 +3,5 @@ require "susy"
 require "breakpoint"           
 
 require "sass-css-importer"    
-add_import_path "./source/components"
-add_import_path Sass::CssImporter::Importer.new('./source/components')
+add_import_path "./app/components"
+add_import_path Sass::CssImporter::Importer.new('./app/components')
