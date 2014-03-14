@@ -1,4 +1,4 @@
-# generator-backbone-browserify [![Build Status](https://secure.travis-ci.org/alexluke/generator-backbone-browserify.png?branch=master)](https://travis-ci.org/alexluke/generator-backbone-browserify)
+# generator-backbone-browserify [![Build Status](https://secure.travis-ci.org/BNJ/generator-backbone-browserify.png?branch=master)](https://travis-ci.org/BNJ/generator-backbone-browserify)
 
 > [Yeoman](http://yeoman.io) generator
 
